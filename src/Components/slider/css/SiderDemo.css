@@ -1,0 +1,36 @@
+.menu_bar{
+    height: 40px;
+    width: 40px;
+}
+.Layout{
+    width:40px;
+}
+.menu_item{
+    height:50px;
+}
+.sider{
+    background: #1F2225;
+}
+.logo{
+    padding: 5px;
+    color: white;
+}
+.sider{
+    padding: 0px;
+
+}
+.trigger{
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 15px;
+    float: left;
+}
+.header{
+    font-family: 'Consolas';
+    font-size: 25px;
+    
+}
+.menu{
+    background-color:#1F2225;
+    height: 40px;
+}
